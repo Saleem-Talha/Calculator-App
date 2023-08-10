@@ -1,16 +1,22 @@
-# calculator
+![Calculator](https://github.com/Saleem-Talha/Xylophone-App/assets/121040503/d3ca8a66-edc5-46e4-b537-f3b879a89220)
 
-A new Flutter project.
+# Calculator App
 
-## Getting Started
+The calculator app is a simple and easy-to-use tool that can be used for basic mathematical calculations. It features a splash screen that displays the app's logo and name, followed by a screen that allows the user to choose between a light or dark theme. The calculator can handle more than 2 numbers, and can perform the following operations:
 
-This project is a starting point for a Flutter application.
+Addition
+Subtraction
+Multiplication
+Division
+Delete
+Clear screen
 
-A few resources to get you started if this is your first Flutter project:
+The calculator app was created as part of my internship for Bharat Intern. I used the following technologies to build the app:
+Flutter Framework
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+[Video Of App in Running Form](https://drive.google.com/file/d/1JY2jmpQTCdCzrdTvWLUxzFa2IaVBnjsN/view?usp=sharing)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Developer
+Saleem Talha
+
+Mail:  [saleemtalha967@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKhcBvzTMFXqQSFLsWHJzhKjzFjgQLzZcGHzqNjrnhFLbtNwpRHCNMLQllFBdnKvDkWQwxK)  
